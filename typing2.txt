@@ -1,0 +1,26 @@
+mother board
+   the computer is build up around a motherboard .the motherboard is the most important part of any computer .it's a large  
+    printed circuit board (pcb) having many chips,ports , controlers and other electronic devices mounted on it.
+  
+introduction to motherboard 
+   the motherboard or the system board is the main circuit board inside computer . every component inside the computer has 
+   to communicate through the motherboard , either by directly plugging into it or by communicating through one of the 
+   motherboard ports . the motherboard provides a platform for all the components and periperals to communicate with each
+   other.
+   the electronic components mounted  on a motherboard are processer,memory chips ,intrfaces , various ports and all 
+   expansion cards .the mothrboard is the hub , rhich is used to connect all the necessary components of a computer .
+   the RAM ,hard drive ,disk drives and optical drives are all plugged  into interfaces on the motherboard .
+   the motherboard may be characterised by the form ,chipest and type of processor socket used.
+  
+
+1.form factor 
+     refers to the motherboard's  geometry,dimensions, arrangement and electrical requirements.different stendards have been
+     developed to build motherboards ,which can be used in different brands . advanced technology extented (ATX) is the most 
+     common design of motherboard for desktop computers.
+2.chipset:
+    controls the majority of resourses of the computer .the funtyion of chipest is to cootdanate data transfer between 
+    the varios  components of computer .as the chipset is integrated into the  motherboard .it is aimportant to choose a 
+     motherboard which includes a recent chipset, in otder to maximize the computer's upgradeability .
+3.processor socket:
+    it's may be a rectanguklar connector into which the processor is ounted vertically ,or asqare shaped connector with
+    many small connectors into which the procssor is directly inserted.
